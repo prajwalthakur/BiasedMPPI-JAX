@@ -1,0 +1,13 @@
+
+# for testing 
+sim_dt : 0.01
+sensor_dt : 0.06
+control_dt : 0.05
+H_control : 36
+
+init_ego_pose :  [5,2.5,1.57] # [6,3,1.74] #[[6,0,0]
+goal :  [8,5,0.0] # [3,6,0]
+obstacle_positions : [[5,4.5,1.5]] #[[3,1,0.8]]
+
+
+
