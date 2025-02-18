@@ -1,7 +1,10 @@
 # BIASED-MPPI for Obstacle Avoidance
 
-This is a dockerized project for Biased Model Predictive Path Integral (MPPI) control in PyBullet.  
+This is a dockerized project for Biased Model Predictive Path Integral (MPPI) control in PyBullet. 
+
 [Biased-MPPI](https://arxiv.org/abs/2401.09241) has been implemented in JAX-Python for obstacle avoidance.
+
+MPPI algorithm is at ```workspace/mppi_jax/mppiJax.py```
 
 
 ![mppi_image](https://github.com/user-attachments/assets/9ac9d165-0fe6-4ef6-8dad-7762273eec17)
